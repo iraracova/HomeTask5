@@ -1,0 +1,15 @@
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+D:\git_education\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.exe
+D:\git_education\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.deps.json
+D:\git_education\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+D:\git_education\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.dll
+D:\git_education\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.pdb
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.dll
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\refint\Task34.dll
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.pdb
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+D:\git_education\C#\Seminar5\Task34\obj\Debug\net6.0\ref\Task34.dll
